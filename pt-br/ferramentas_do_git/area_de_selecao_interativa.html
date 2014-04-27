@@ -1,5 +1,5 @@
 <!DOCTYPE HTML>
-<html lang="en-US">
+<html lang="en-US" manifest="../manifest.appcache">
     <head prefix="og: http://ogp.me/ns# book: http://ogp.me/ns/book#">
         
         <meta charset="UTF-8">
@@ -42,7 +42,7 @@
 
 
         
-    <div class="book" data-github="GitbookIO/git" data-level="6.2" data-basepath=".." data-revision="1398209941663">
+    <div class="book" data-github="GitbookIO/git" data-level="6.2" data-basepath=".." data-revision="1398632536067">
     <div class="book-header">
     <!-- Actions Left -->
     
@@ -89,7 +89,10 @@
     
 
     <!-- Title -->
-    <h1><a href="../" >Learn Git</a></h1>
+    <h1>
+        <i class="fa fa-spinner fa-spin"></i>
+        <a href="../" >Learn Git</a>
+    </h1>
 </div>
 
     <div class="book-summary">
@@ -877,7 +880,7 @@
 
                 <div class="page-inner">
                 
-                    <section class="normal" id="section-gitbook_684">
+                    <section class="normal" id="section-gitbook_826">
                     
                         <h1 id="-rea-de-sele-o-interativa">Área de Seleção Interativa</h1>
 <p>Git vem com alguns scripts que facilitam algumas tarefas de linha de comando. Aqui, você verá alguns comandos interativos que podem ajudar você a facilmente escolher combinações ou partes de arquivos para incorporar em um commit. Essas ferramentas são muito úteis se você modificou vários arquivos e decidiu que quer essas modificações em commits separados em vez de um grande e bagunçado commit. Desta maneira, você pode ter certeza que seus commits estão logicamente separados e podem ser facilmente revisados pelos outros desenvolvedores trabalhando com você. Se você executar <code>git add</code> com a opção <code>-i</code> ou <code>--interactive</code>, Git entra em um modo interativo de shell, exibindo algo desse tipo:</p>

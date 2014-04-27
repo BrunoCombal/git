@@ -1,5 +1,5 @@
 <!DOCTYPE HTML>
-<html lang="en-US">
+<html lang="en-US" manifest="../manifest.appcache">
     <head prefix="og: http://ogp.me/ns# book: http://ogp.me/ns/book#">
         
         <meta charset="UTF-8">
@@ -42,7 +42,7 @@
 
 
         
-    <div class="book" data-github="GitbookIO/git" data-level="7.4" data-basepath=".." data-revision="1398209934531">
+    <div class="book" data-github="GitbookIO/git" data-level="7.4" data-basepath=".." data-revision="1398632519759">
     <div class="book-header">
     <!-- Actions Left -->
     
@@ -89,7 +89,10 @@
     
 
     <!-- Title -->
-    <h1><a href="../" >Learn Git</a></h1>
+    <h1>
+        <i class="fa fa-spinner fa-spin"></i>
+        <a href="../" >Learn Git</a>
+    </h1>
 </div>
 
     <div class="book-summary">
@@ -809,7 +812,7 @@
 
                 <div class="page-inner">
                 
-                    <section class="normal" id="section-gitbook_298">
+                    <section class="normal" id="section-gitbook_301">
                     
                         <h1 id="-">정책 구현하기</h1>
 <p>지금까지 배운 것을 한 번 적용해보자. 커밋 메시지 규칙 검사하고, Fast-forward Push만 허용하고, 디렉토리마다 사용자의 수정 권한을 제어하는 Workflow를 만든다. 실질적으로 정책을 강제하려면 서버 훅으로 만들어야 한다. 하지만, 개발자들이 Push할 수 없는 커밋은 아예 만들지 않도록 클라이언트 훅도 만든다.</p>

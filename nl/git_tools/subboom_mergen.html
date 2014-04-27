@@ -1,5 +1,5 @@
 <!DOCTYPE HTML>
-<html lang="en-US">
+<html lang="en-US" manifest="../manifest.appcache">
     <head prefix="og: http://ogp.me/ns# book: http://ogp.me/ns/book#">
         
         <meta charset="UTF-8">
@@ -42,7 +42,7 @@
 
 
         
-    <div class="book" data-github="GitbookIO/git" data-level="6.7" data-basepath=".." data-revision="1398209941760">
+    <div class="book" data-github="GitbookIO/git" data-level="6.7" data-basepath=".." data-revision="1398632535946">
     <div class="book-header">
     <!-- Actions Left -->
     
@@ -89,7 +89,10 @@
     
 
     <!-- Title -->
-    <h1><a href="../" >Learn Git</a></h1>
+    <h1>
+        <i class="fa fa-spinner fa-spin"></i>
+        <a href="../" >Learn Git</a>
+    </h1>
 </div>
 
     <div class="book-summary">
@@ -877,7 +880,7 @@
 
                 <div class="page-inner">
                 
-                    <section class="normal" id="section-gitbook_874">
+                    <section class="normal" id="section-gitbook_732">
                     
                         <h1 id="subboom-mergen">Subboom mergen</h1>
 <p>Nu je de moeilijkheden van het submodulesysteem hebt gezien, laten we eens kijken naar een alternatieve manier om hetzelfde probleem aan te pakken. Zodra Git merged, kijkt het naar wat het moet mergen en kiest dan een toepasselijke mergestrategie om te gebruiken. Als je twee branches aan het mergen bent zal Git een <em>recursive</em> strategie gebruiken. Als je meer dan twee branches aan het mergen bent zal Git de <em>octopus</em> strategie kiezen. Deze strategieën worden automatisch voor je gekozen omdat de recursieve strategie complexe drie-weg merge situaties aan kan - bijvoorbeeld meer dan één gezamenlijke voorouder, maar het kan het alleen mergen van twee branches aan. De octopus merge kan meerdere branches aan, maar is voorzichtiger om moeilijke conflicten te vermijden, dus wordt deze gekozen als de standaard strategie als je meer dan twee branches probeert te mergen.</p>

@@ -1,5 +1,5 @@
 <!DOCTYPE HTML>
-<html lang="en-US">
+<html lang="en-US" manifest="../manifest.appcache">
     <head prefix="og: http://ogp.me/ns# book: http://ogp.me/ns/book#">
         
         <meta charset="UTF-8">
@@ -42,7 +42,7 @@
 
 
         
-    <div class="book" data-github="GitbookIO/git" data-level="4.2" data-basepath=".." data-revision="1398209928432">
+    <div class="book" data-github="GitbookIO/git" data-level="4.2" data-basepath=".." data-revision="1398632514310">
     <div class="book-header">
     <!-- Actions Left -->
     
@@ -89,7 +89,10 @@
     
 
     <!-- Title -->
-    <h1><a href="../" >Learn Git</a></h1>
+    <h1>
+        <i class="fa fa-spinner fa-spin"></i>
+        <a href="../" >Learn Git</a>
+    </h1>
 </div>
 
     <div class="book-summary">
@@ -787,7 +790,7 @@
 
                 <div class="page-inner">
                 
-                    <section class="normal" id="section-gitbook_164">
+                    <section class="normal" id="section-gitbook_141">
                     
                         <h1 id="-git">在伺服器上部署 Git</h1>
 <p>開始架設 Git 伺服器前，需要先把現有倉庫匯出為裸倉庫 — 即一個不包含當前工作目錄的倉庫。做法直截了當，克隆時用 <code>--bare</code> 選項即可。裸倉庫的目錄名一般以 <code>.git</code> 結尾，像這樣：</p>

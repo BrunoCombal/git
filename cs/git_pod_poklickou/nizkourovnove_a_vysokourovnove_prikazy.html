@@ -1,5 +1,5 @@
 <!DOCTYPE HTML>
-<html lang="en-US">
+<html lang="en-US" manifest="../manifest.appcache">
     <head prefix="og: http://ogp.me/ns# book: http://ogp.me/ns/book#">
         
         <meta charset="UTF-8">
@@ -42,7 +42,7 @@
 
 
         
-    <div class="book" data-github="GitbookIO/git" data-level="9.1" data-basepath=".." data-revision="1398209951308">
+    <div class="book" data-github="GitbookIO/git" data-level="9.1" data-basepath=".." data-revision="1398632536588">
     <div class="book-header">
     <!-- Actions Left -->
     
@@ -89,7 +89,10 @@
     
 
     <!-- Title -->
-    <h1><a href="../" >Learn Git</a></h1>
+    <h1>
+        <i class="fa fa-spinner fa-spin"></i>
+        <a href="../" >Learn Git</a>
+    </h1>
 </div>
 
     <div class="book-summary">
@@ -887,7 +890,7 @@
 
                 <div class="page-inner">
                 
-                    <section class="normal" id="section-gitbook_886">
+                    <section class="normal" id="section-gitbook_887">
                     
                         <h1 id="n-zko-rov-ov-a-vysoko-rov-ov-p-kazy">Nízkoúrovňové a vysokoúrovňové příkazy</h1>
 <p>V této knize jsme dosud uvedli asi 30 příkazů, které se používají k ovládání systému Git, např. <code>checkout</code>, <code>branch</code> nebo <code>remote</code>. Protože však byl Git původně spíš soupravou nástrojů k verzování než plným, uživatelsky přívětivým systémem VCS, zná celou řadu příkazů pracujících na nižších úrovních, které byly původně spojovány ve stylu UNIXu nebo volány ze skriptů. Těmto příkazům většinou říkáme „nízkoúrovňové“ (angl. plumbing commands), zatímco uživatelsky přívětivější příkazy označujeme jako „vysokoúrovňové“ (porcelain commands).</p>

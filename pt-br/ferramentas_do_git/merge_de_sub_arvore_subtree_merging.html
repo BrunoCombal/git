@@ -1,5 +1,5 @@
 <!DOCTYPE HTML>
-<html lang="en-US">
+<html lang="en-US" manifest="../manifest.appcache">
     <head prefix="og: http://ogp.me/ns# book: http://ogp.me/ns/book#">
         
         <meta charset="UTF-8">
@@ -42,7 +42,7 @@
 
 
         
-    <div class="book" data-github="GitbookIO/git" data-level="6.7" data-basepath=".." data-revision="1398209941663">
+    <div class="book" data-github="GitbookIO/git" data-level="6.7" data-basepath=".." data-revision="1398632536067">
     <div class="book-header">
     <!-- Actions Left -->
     
@@ -89,7 +89,10 @@
     
 
     <!-- Title -->
-    <h1><a href="../" >Learn Git</a></h1>
+    <h1>
+        <i class="fa fa-spinner fa-spin"></i>
+        <a href="../" >Learn Git</a>
+    </h1>
 </div>
 
     <div class="book-summary">
@@ -877,7 +880,7 @@
 
                 <div class="page-inner">
                 
-                    <section class="normal" id="section-gitbook_687">
+                    <section class="normal" id="section-gitbook_829">
                     
                         <h1 id="merge-de-sub-rvore-subtree-merging-">Merge de Sub-árvore (Subtree Merging)</h1>
 <p>Agora que você viu as dificuldades do sistema de submódulos, vamos ver uma maneira alternativa de resolver o mesmo problema. Quando o Git faz o merge, ele olha para as partes que vão sofrer o merge e escolhe a estratégia adequada de merge para usar. Se você está fazendo o merge de dois branches, Git usa uma estratégia <em>recursiva</em> (<em>recursive</em> strategy). Se você está fazendo o merge de mais de dois branches, Git usa a estratégia do <em>polvo</em> (<em>octopus</em> strategy). Essas estratégias são automaticamente escolhidas para você, porque a estratégia recursiva pode lidar com situações complexas de merge de três vias — por exemplo, mais de um ancestral comum — mas ele só pode lidar com o merge de dois branches. O merge octopus pode lidar com vários branches mas é cauteloso para evitar conflitos difíceis, por isso ele é escolhido como estratégia padrão se você está tentando fazer o merge de mais de dois branches.</p>
