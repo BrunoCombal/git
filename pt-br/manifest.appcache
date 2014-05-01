@@ -1,5 +1,5 @@
 CACHE MANIFEST
-# Revision 1398632536067
+# Revision 1398986635541
 
 CACHE:
 git_e_outros_sistemas/README.html
@@ -54,9 +54,9 @@ git_no_servidor/git_hospedado.html
 git_no_servidor/acesso_publico.html
 git_no_servidor/gitosis.html
 git_no_servidor/gitweb.html
+git_no_servidor/sumario.html
 git_no_servidor/os_protocolos.html
 git_no_servidor/servico_git.html
-git_no_servidor/sumario.html
 primeiros_passos/README.html
 primeiros_passos/configuracao_inicial_do_git.html
 primeiros_passos/instalando_git.html

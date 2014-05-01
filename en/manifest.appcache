@@ -1,31 +1,31 @@
 CACHE MANIFEST
-# Revision 1398632578557
+# Revision 1398986671669
 
 CACHE:
-getting_started/a_short_history_of_git.html
 getting_started/README.html
-getting_started/first_time_git_setup.html
+getting_started/a_short_history_of_git.html
 getting_started/about_version_control.html
+getting_started/first_time_git_setup.html
 getting_started/getting_help.html
 index.html
 getting_started/summary.html
-getting_started/git_basics.html
 getting_started/installing_git.html
+getting_started/git_basics.html
 customizing_git/README.html
 customizing_git/an_example_git_enforced_policy.html
 customizing_git/git_attributes.html
 customizing_git/git_configuration.html
-customizing_git/summary.html
 customizing_git/git_hooks.html
+customizing_git/summary.html
 distributed_git/README.html
 distributed_git/contributing_to_a_project.html
-git_and_other_systems/README.html
-distributed_git/summary.html
 distributed_git/distributed_workflows.html
 distributed_git/maintaining_a_project.html
+distributed_git/summary.html
+git_and_other_systems/README.html
 git_and_other_systems/git_and_subversion.html
-git_and_other_systems/migrating_to_git.html
 git_and_other_systems/summary.html
+git_and_other_systems/migrating_to_git.html
 git_basics/README.html
 git_basics/getting_a_git_repository.html
 git_basics/recording_changes_to_the_repository.html
@@ -50,7 +50,7 @@ git_internals/maintenance_and_data_recovery.html
 git_internals/packfiles.html
 git_internals/plumbing_and_porcelain.html
 git_internals/summary.html
-git_internals/the_refspec.html
+git_on_the_server/gitweb.html
 git_on_the_server/getting_git_on_a_server.html
 git_on_the_server/git_daemon.html
 git_on_the_server/gitolite.html
@@ -58,21 +58,21 @@ git_on_the_server/gitosis.html
 git_on_the_server/generating_your_ssh_public_key.html
 git_on_the_server/hosted_git.html
 git_on_the_server/public_access.html
+git_internals/the_refspec.html
 git_on_the_server/setting_up_the_server.html
 git_on_the_server/summary.html
-git_on_the_server/README.html
-git_tools/README.html
 git_on_the_server/the_protocols.html
-git_tools/interactive_staging.html
-git_tools/debugging_with_git.html
+git_tools/README.html
 git_internals/transfer_protocols.html
+git_tools/debugging_with_git.html
 git_tools/revision_selection.html
 git_tools/rewriting_history.html
 git_tools/stashing.html
-git_on_the_server/gitweb.html
 git_tools/submodules.html
 git_tools/subtree_merging.html
+git_tools/interactive_staging.html
 git_tools/summary.html
+git_on_the_server/README.html
 gitbook/app.js
 gitbook/fonts/anonymouspro/400.woff
 gitbook/fonts/anonymouspro/400i.woff

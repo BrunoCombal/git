@@ -1,14 +1,14 @@
 CACHE MANIFEST
-# Revision 1398632514420
+# Revision 1398986617158
 
 CACHE:
 index.html
 bat_dau/README.html
 bat_dau/cai_dat_git.html
 bat_dau/cau_hinh_git_lan_dau.html
-bat_dau/co_ban_ve_git.html
 bat_dau/so_luoc_lich_su_cua_git.html
 bat_dau/tom_tat.html
+bat_dau/co_ban_ve_git.html
 bat_dau/tro_giup.html
 bat_dau/ve_quan_ly_phien_ban.html
 co_ban_ve_git/README.html
@@ -18,13 +18,13 @@ co_ban_ve_git/lam_viec_tu_xa.html
 co_ban_ve_git/meo_nho.html
 co_ban_ve_git/phuc_hoi.html
 co_ban_ve_git/tao_mot_kho_chua_git.html
-co_ban_ve_git/tong_ket.html
-co_ban_ve_git/xem_lich_su_commit.html
-phan_nhanh_trong_git/README.html
 phan_nhanh_trong_git/co_ban_ve_phan_nhanh_va_tich_hop.html
+co_ban_ve_git/tong_ket.html
 phan_nhanh_trong_git/nhanh_la_gi.html
 phan_nhanh_trong_git/nhanh_remote.html
+co_ban_ve_git/xem_lich_su_commit.html
 phan_nhanh_trong_git/quan_ly_cac_nhanh.html
+phan_nhanh_trong_git/README.html
 phan_nhanh_trong_git/quy_trinh_lam_viec_phan_nhanh.html
 phan_nhanh_trong_git/rebasing.html
 phan_nhanh_trong_git/tong_ket.html

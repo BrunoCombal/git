@@ -1,19 +1,19 @@
 CACHE MANIFEST
-# Revision 1398632519759
+# Revision 1398986621592
 
 CACHE:
 index.html
 _.html
 __git/README.html
-git/README.html
 __git/_.html
 __git/__workflow.html
 __git_.html
+git/README.html
 git/_.html
 git/git_.html
 git/git_attribute.html
-git_/gitolite.html
 git_/_.html
+git_/gitolite.html
 git_/__.html
 git_/___.html
 git_/_git_.html
@@ -25,8 +25,8 @@ git_/git_subversion.html
 git_/README.html
 git_/gitosis.html
 git_/gitweb.html
-git_/hosted_git.html
 git_/packfile.html
+git_/hosted_git.html
 git_/plumbing__porcelain_.html
 git_/rebase.html
 git_/refspec.html
@@ -71,8 +71,8 @@ gitbook/jsrepl/sandbox.html
 gitbook/jsrepl/sandbox.js
 gitbook/print.css
 gitbook/style.css
-gitbook/plugins/gitbook-plugin-mixpanel/plugin.js
 gitbook/plugins/gitbook-plugin-mathjax/plugin.js
+gitbook/plugins/gitbook-plugin-mixpanel/plugin.js
 
 NETWORK:
 *

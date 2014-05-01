@@ -1,27 +1,27 @@
 CACHE MANIFEST
-# Revision 1398632521269
+# Revision 1398986623132
 
 CACHE:
 git_distribuito/README.html
 git_distribuito/contribuire_a_un_progetto.html
 index.html
-git_distribuito/mantenere_un_progetto.html
 git_distribuito/sommario.html
+git_distribuito/mantenere_un_progetto.html
 git_distribuito/workflows_distribuiti.html
 basi_di_git/README.html
 basi_di_git/annullare_le_cose.html
 basi_di_git/lavorare_con_sorgenti_remote.html
 basi_di_git/registrare_i_cambiamenti_nel_repository.html
 basi_di_git/repository_git.html
-basi_di_git/riassunto.html
 basi_di_git/suggerimenti_e_trucchi.html
+basi_di_git/riassunto.html
 basi_di_git/vedere_la_storia_dei_commit.html
-customizing_git/attributi_di_git.html
 customizing_git/README.html
-diramazioni_in_git/amministrazione_dei_rami.html
+customizing_git/attributi_di_git.html
 customizing_git/configurazione_di_git.html
 customizing_git/git_hooks.html
 diramazioni_in_git/README.html
+diramazioni_in_git/amministrazione_dei_rami.html
 diramazioni_in_git/basi_di_diramazione_e_fusione.html
 diramazioni_in_git/cose_un_ramo.html
 diramazioni_in_git/flusso_di_lavoro_con_le_ramificazioni.html
@@ -29,23 +29,23 @@ diramazioni_in_git/rami_remoti.html
 diramazioni_in_git/riassunto.html
 git_e_altri_sistemi/git_e_subversion.html
 git_e_altri_sistemi/sommario.html
-git_sul_server/gitosis.html
-git_sul_server/README.html
-git_sul_server/configurare_il_server.html
-git_sul_server/demone_git.html
 git_e_altri_sistemi/migrare_a_git.html
+git_sul_server/gitosis.html
+git_sul_server/configurare_il_server.html
+git_sul_server/README.html
+git_sul_server/demone_git.html
 git_sul_server/generare_la_propria_chiave_pubblica_ssh.html
 git_sul_server/accesso_pubblico.html
-git_sul_server/gitweb.html
-git_e_altri_sistemi/README.html
-git_sul_server/hosting_git.html
 git_sul_server/gitolite.html
-diramazioni_in_git/rifondazione.html
+git_sul_server/gitweb.html
+git_sul_server/hosting_git.html
 git_sul_server/i_protocolli.html
 git_sul_server/ottenere_git_su_di_un_server.html
 git_sul_server/riassunto.html
 git_tools/README.html
 git_tools/moduli.html
+diramazioni_in_git/rifondazione.html
+git_e_altri_sistemi/README.html
 git_tools/selezione_della_revisione.html
 git_tools/sommario.html
 git_tools/subtree_merging.html
@@ -55,8 +55,8 @@ i_comandi_interni_di_git/i_riferimenti_di_git.html
 i_comandi_interni_di_git/impianto_e_sanitari_plumbing_e_porcelain.html
 i_comandi_interni_di_git/le_specifiche_di_riferimento_refspec.html
 i_comandi_interni_di_git/manutenzione_e_recupero_dei_dati.html
-i_comandi_interni_di_git/protocolli_di_trasferimento.html
 i_comandi_interni_di_git/pacchetti_di_file.html
+i_comandi_interni_di_git/protocolli_di_trasferimento.html
 i_comandi_interni_di_git/sommario.html
 per_iniziare/README.html
 per_iniziare/basi_di_git.html

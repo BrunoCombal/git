@@ -1,5 +1,5 @@
 CACHE MANIFEST
-# Revision 1398632535947
+# Revision 1398986627581
 
 CACHE:
 gedistribueerd_git/README.html
@@ -7,15 +7,15 @@ gedistribueerd_git/bijdragen_aan_een_project.html
 gedistribueerd_git/gedistribueerde_workflows.html
 gedistribueerd_git/het_beheren_van_een_project.html
 gedistribueerd_git/samenvatting.html
-index.html
 aan_de_slag/README.html
-aan_de_slag/een_kort_historisch_overzicht_van_git.html
+index.html
 aan_de_slag/de_basis_van_git.html
+aan_de_slag/een_kort_historisch_overzicht_van_git.html
 aan_de_slag/git_installeren.html
 aan_de_slag/git_klaarmaken_voor_eerste_gebruik.html
 aan_de_slag/het_wat_en_waarom_van_versiebeheer.html
-aan_de_slag/hulp_krijgen.html
 aan_de_slag/samenvatting.html
+aan_de_slag/hulp_krijgen.html
 branchen_in_git/README.html
 branchen_in_git/branch_beheer.html
 branchen_in_git/branch_workflows.html
@@ -23,12 +23,12 @@ branchen_in_git/eenvoudig_branchen_en_mergen.html
 branchen_in_git/rebasen.html
 branchen_in_git/remote_branches.html
 branchen_in_git/samenvatting.html
-de_basis_van_git/README.html
 branchen_in_git/wat_is_een_branch.html
+de_basis_van_git/README.html
 de_basis_van_git/de_commit_geschiedenis_bekijken.html
 de_basis_van_git/dingen_ongedaan_maken.html
-de_basis_van_git/samenvatting.html
 de_basis_van_git/een_git_repository_verkrijgen.html
+de_basis_van_git/samenvatting.html
 de_basis_van_git/taggen_labelen.html
 de_basis_van_git/tips_en_trucs.html
 de_basis_van_git/werken_met_remotes.html
@@ -40,12 +40,12 @@ git_en_andere_systemen/samenvatting.html
 git_op_de_server/README.html
 git_op_de_server/de_server_opzetten.html
 git_op_de_server/gitolite.html
-git_op_de_server/git_daemon.html
 git_op_de_server/gehoste_git.html
+git_op_de_server/git_daemon.html
 git_op_de_server/git_op_een_server_krijgen.html
 git_op_de_server/de_protocollen.html
-git_op_de_server/gitosis.html
 git_op_de_server/gitweb.html
+git_op_de_server/gitosis.html
 git_op_de_server/je_publieke_ssh_sleutel_genereren.html
 git_op_de_server/samenvatting.html
 git_op_de_server/publieke_toegang.html
@@ -54,8 +54,8 @@ git_op_maat_maken/een_voorbeeld_van_git_afgedwongen_beleid.html
 git_op_maat_maken/git_attributen.html
 git_op_maat_maken/git_configuratie.html
 git_op_maat_maken/git_haken_hooks.html
-git_tools/README.html
 git_op_maat_maken/samenvatting.html
+git_tools/README.html
 git_tools/debuggen_met_git.html
 git_tools/geschiedenis_herschrijven.html
 git_tools/interactief_stagen.html

@@ -1,5 +1,5 @@
 CACHE MANIFEST
-# Revision 1398632514412
+# Revision 1398986617162
 
 CACHE:
 index.html
@@ -17,16 +17,16 @@ dasar_dasar_git/melihat_sejarah_commit.html
 dasar_dasar_git/membatalkan_apapun.html
 dasar_dasar_git/menandai.html
 dasar_dasar_git/mengambil_repositori_git.html
-dasar_dasar_git/merekam_perubahan_ke_dalam_repositori.html
 dasar_dasar_git/simpulan.html
-dasar_dasar_git/tips_dan_tricks.html
-memulai_git/README.html
 memulai_git/dasar_git.html
 memulai_git/kesimpulan.html
 memulai_git/memperoleh_pertolongan.html
 memulai_git/menginstall_git.html
+dasar_dasar_git/merekam_perubahan_ke_dalam_repositori.html
 memulai_git/sejarah_singkat_git.html
 memulai_git/setup_git_untuk_pertama_kalinya.html
+memulai_git/README.html
+dasar_dasar_git/tips_dan_tricks.html
 memulai_git/tentang_version_control.html
 gitbook/app.js
 gitbook/fonts/anonymouspro/400.woff
@@ -64,8 +64,8 @@ gitbook/jsrepl/sandbox.html
 gitbook/jsrepl/sandbox.js
 gitbook/print.css
 gitbook/style.css
-gitbook/plugins/gitbook-plugin-mathjax/plugin.js
 gitbook/plugins/gitbook-plugin-mixpanel/plugin.js
+gitbook/plugins/gitbook-plugin-mathjax/plugin.js
 
 NETWORK:
 *

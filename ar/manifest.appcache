@@ -1,5 +1,5 @@
 CACHE MANIFEST
-# Revision 1398632510763
+# Revision 1398986614256
 
 CACHE:
 index.html
@@ -11,10 +11,10 @@ _/_git.html
 _/_git__.html
 _git/README.html
 _git/____repository.html
-_git/__repository___git.html
 _git/summary.html
-_git/tagging.html
+_git/__repository___git.html
 _git/tips_and_tricks.html
+_git/tagging.html
 _git/undoing_things.html
 _git/viewing_the_commit_history.html
 _git/working_with_remotes.html

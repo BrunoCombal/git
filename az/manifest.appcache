@@ -1,5 +1,5 @@
 CACHE MANIFEST
-# Revision 1398632535880
+# Revision 1398986635480
 
 CACHE:
 git_and_other_systems/README.html
@@ -14,8 +14,8 @@ baslangic/first_time_git_setup.html
 baslangic/getting_help.html
 baslangic/git_basics.html
 baslangic/installing_git.html
-customizing_git/README.html
 baslangic/summary.html
+customizing_git/README.html
 customizing_git/an_example_git_enforced_policy.html
 customizing_git/git_attributes.html
 customizing_git/git_configuration.html
@@ -24,20 +24,20 @@ customizing_git/summary.html
 distributed_git/README.html
 distributed_git/contributing_to_a_project.html
 distributed_git/distributed_workflows.html
-distributed_git/maintaining_a_project.html
 distributed_git/summary.html
+distributed_git/maintaining_a_project.html
 git_basics/README.html
 git_basics/getting_a_git_repository.html
 git_basics/recording_changes_to_the_repository.html
 git_basics/summary.html
-git_basics/tips_and_tricks.html
 git_basics/tagging.html
+git_basics/tips_and_tricks.html
 git_basics/undoing_things.html
 git_basics/viewing_the_commit_history.html
-git_branching/README.html
 git_basics/working_with_remotes.html
-git_branching/branch_management.html
+git_branching/README.html
 git_branching/basic_branching_and_merging.html
+git_branching/branch_management.html
 git_branching/branching_workflows.html
 git_branching/rebasing.html
 git_branching/remote_branches.html
@@ -48,12 +48,12 @@ git_internals/git_objects.html
 git_internals/git_references.html
 git_internals/maintenance_and_data_recovery.html
 git_internals/packfiles.html
-git_internals/summary.html
 git_internals/plumbing_and_porcelain.html
+git_internals/summary.html
 git_internals/the_refspec.html
-git_internals/transfer_protocols.html
 git_on_the_server/README.html
 git_on_the_server/gitweb.html
+git_internals/transfer_protocols.html
 git_on_the_server/getting_git_on_a_server.html
 git_on_the_server/git_daemon.html
 git_on_the_server/gitolite.html

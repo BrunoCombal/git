@@ -1,13 +1,13 @@
 CACHE MANIFEST
-# Revision 1398632509420
+# Revision 1398986613475
 
 CACHE:
 index.html
 pochetak/README.html
 pochetak/first_time_git_setup.html
 pochetak/getting_help.html
-pochetak/installing_git.html
 pochetak/git_basics.html
+pochetak/installing_git.html
 pochetak/kratka_istoria_gita.html
 pochetak/o_kontroli_verzie.html
 pochetak/zakuchak.html

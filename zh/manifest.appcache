@@ -1,11 +1,11 @@
 CACHE MANIFEST
-# Revision 1398632514305
+# Revision 1398986617154
 
 CACHE:
 index.html
 _git/README.html
-_git/_git.html
 _git/_ssh_.html
+_git/_git.html
 _git/git.html
 _git/git_.html
 _git/gitolite.html
@@ -15,16 +15,16 @@ _git.html
 _git_.html
 git_/git__subversion.html
 git_/_git.html
-git_/_git_.html
-git_/_plumbing__porcelain.html
-git_/git_.html
 git_/README.html
+git_/_plumbing__porcelain.html
 git_/git_references.html
-git_/packfiles.html
+git_/_git_.html
 git_/revision.html
-git_/stashing.html
+git_/packfiles.html
 git_/the_refspec.html
 git_.html
+git_/stashing.html
+git_/git_.html
 gitbook/app.js
 gitbook/fonts/anonymouspro/400.woff
 gitbook/fonts/anonymouspro/400i.woff

@@ -1,13 +1,13 @@
 CACHE MANIFEST
-# Revision 1398632514426
+# Revision 1398986617166
 
 CACHE:
 index.html
 baslangic/README.html
 baslangic/gitin_kisa_bir_tarihcesi.html
 baslangic/gitin_kurulumu.html
-baslangic/gitin_temelleri.html
 baslangic/ilk_ayarlamalar.html
+baslangic/gitin_temelleri.html
 baslangic/ozet.html
 baslangic/surum_kontrolu_hakkinda.html
 baslangic/yardim_almak.html
@@ -15,15 +15,15 @@ gitin_temelleri/README.html
 gitin_temelleri/bir_git_yazilim_havuzu_edinmek.html
 gitin_temelleri/degisiklikleri_geri_almak.html
 gitin_temelleri/degisiklikleri_yazilim_havuzuna_kaydetmek.html
-gitin_temelleri/etiketleme.html
 gitin_temelleri/ipuclari.html
+gitin_temelleri/etiketleme.html
 gitin_temelleri/kayit_tarihcesini_goruntulemek.html
-gitin_temelleri/ozet.html
-gitin_temelleri/uzak_ucbirimlerle_calismak.html
-gitte_dallanma/README.html
 gitte_dallanma/dal_nedir.html
+gitin_temelleri/ozet.html
 gitte_dallanma/dal_yonetimi.html
 gitte_dallanma/dallanma_is_akislari.html
+gitin_temelleri/uzak_ucbirimlerle_calismak.html
+gitte_dallanma/README.html
 gitte_dallanma/dallanma_ve_birlestirmenin_temelleri.html
 gitte_dallanma/rebasing__zemin_kok.html
 gitte_dallanma/summary.html

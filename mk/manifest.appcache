@@ -1,5 +1,5 @@
 CACHE MANIFEST
-# Revision 1398632518718
+# Revision 1398986620677
 
 CACHE:
 index.html
@@ -7,32 +7,32 @@ distribuiran_git/README.html
 distribuiran_git/contributing_to_a_project.html
 distribuiran_git/distribuirani_nachini_na_rabota.html
 distribuiran_git/maintaining_a_project.html
+distribuiran_git/summary.html
+granee_so_git/branch_management.html
+granee_so_git/README.html
+granee_so_git/branching_workflows.html
 granee_so_git/osnovno_granee_i_spouvae.html
 granee_so_git/rebasing.html
-granee_so_git/shto_e_granee.html
 granee_so_git/remote_branches.html
-granee_so_git/branching_workflows.html
-granee_so_git/summary.html
-distribuiran_git/summary.html
-granee_so_git/README.html
-granee_so_git/branch_management.html
+granee_so_git/shto_e_granee.html
 kako_da_zapochnam/README.html
+granee_so_git/summary.html
 kako_da_zapochnam/dobivae_pomosh.html
+kako_da_zapochnam/pregled.html
 kako_da_zapochnam/instalatsia_na_git.html
 kako_da_zapochnam/kratka_istoria_na_git.html
 kako_da_zapochnam/osnovi_na_git.html
-kako_da_zapochnam/pregled.html
 kako_da_zapochnam/prvo_postavuvae_na_git.html
 kako_da_zapochnam/za_kontrola_na_verziite.html
 osnovi_na_git/README.html
 osnovi_na_git/dobivae_git_repozitori.html
-osnovi_na_git/summary.html
-osnovi_na_git/tagging.html
-osnovi_na_git/tips_and_tricks.html
 osnovi_na_git/undoing_things.html
 osnovi_na_git/viewing_the_commit_history.html
 osnovi_na_git/working_with_remotes.html
 osnovi_na_git/zachuvuvae_na_promeni_vo_vasheto_repozitori.html
+osnovi_na_git/summary.html
+osnovi_na_git/tips_and_tricks.html
+osnovi_na_git/tagging.html
 gitbook/app.js
 gitbook/fonts/anonymouspro/400.woff
 gitbook/fonts/anonymouspro/400i.woff
@@ -69,8 +69,8 @@ gitbook/jsrepl/sandbox.html
 gitbook/jsrepl/sandbox.js
 gitbook/print.css
 gitbook/style.css
-gitbook/plugins/gitbook-plugin-mixpanel/plugin.js
 gitbook/plugins/gitbook-plugin-mathjax/plugin.js
+gitbook/plugins/gitbook-plugin-mixpanel/plugin.js
 
 NETWORK:
 *
